@@ -51,6 +51,9 @@ Por ser um projeto simples, não precisa instalar nada:
 2. Abra o arquivo `index.html` no seu navegador (Chrome, Firefox, etc.).
 3. Use os botões **+** e **–** para alterar as quantidades e veja o subtotal mudar.
 
+   <img width="1916" height="799" alt="image" src="https://github.com/user-attachments/assets/6203d5ed-fb40-4e64-b437-2c74b4e3b4bd" />
+
+
 ---
 
 ## Estrutura dos arquivos
